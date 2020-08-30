@@ -1,6 +1,6 @@
 
 /FirebaseLogin-SpringBoot.iml
-/.idea/
+/.idea/*
 /target/
-fir-login-13da0-firebase-adminsdk-m8qve-adf6abf3ee.json
+/fir-login-13da0-firebase-adminsdk-m8qve-adf6abf3ee.json
 /.idea/

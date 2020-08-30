@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.demo.firebaselogin</groupId>
-    <artifactId>FirebaseLogin-SpringBoot</artifactId>
+    <artifactId>firebase-login-springboot</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
